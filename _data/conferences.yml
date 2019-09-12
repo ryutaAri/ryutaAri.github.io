@@ -36,6 +36,28 @@
   sub: RO
   note: 'Rank: A2 (Quails)'
 
+- title: ICAART
+  year: 2020
+  id: icaart20
+  link: http://www.icaart.org
+  deadline: '2019-10-4 23:59:59'
+  timezone: UTC-12
+  date: Feb 22-24, 2020
+  place: Valletta, Malta
+  sub: AI 
+  note: 'Rank C'
+
+- title: WWW
+  year: 2020
+  id: www20
+  link: https://www2020.thewebconf.org/about
+  deadline: '2019-10-7 23:59:59'
+  timezone: UTC-12
+  date: Apr 20-24, 2020
+  place: Taipei, Taiwan
+  sub: WEB
+  note: 'Rank A*'
+
 - title: AISTATS
   year: 2020
   id: aistats20
