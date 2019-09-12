@@ -17,3 +17,5 @@
   sub: AI
 - name: Multi-Agent System
   sub: MAS
+- name: Web
+  sub: WEB
