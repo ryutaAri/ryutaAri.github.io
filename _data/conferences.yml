@@ -36,18 +36,6 @@
   sub: RO
   note: 'Rank: A2 (Quails)'
 
-- title: HRIWEEEE
-  year: 2020
-  id: hrieeee2020
-  link: https://humanrobotinteraction.org/2020/
-  deadline: '2019-10-09 23:59:59'
-  timezone: America/Los_Angeles
-  date: March 23-26, 2020
-  place: Cambridge, UK
-  sub: RO
-  note: 'Rank: A2 (Quails)'
-
-
 - title: ICAART
   year: 2020
   id: icaart20
