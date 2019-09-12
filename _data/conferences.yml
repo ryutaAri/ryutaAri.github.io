@@ -40,8 +40,8 @@
   year: 2020
   id: icaart20
   link: http://www.icaart.org/
-  deadline: '2019-10-4 23:59:59'
-  timezone: AOE
+  deadline: '2019-10-04 23:59:59'
+  timezone: America/Los_Angeles
   date: Feb 22-24, 2020
   place: Valletta, Malta
   sub: AI 
@@ -50,8 +50,8 @@
 - title: WWW
   year: 2020
   id: www20
-  link: https://www2020.thewebconf.org/about
-  deadline: '2019-10-7 23:59:59'
+  link: https://www2020.thewebconf.org/about/
+  deadline: '2019-10-07 23:59:59'
   timezone: UTC-12
   date: Apr 20-24, 2020
   place: Taipei, Taiwan
