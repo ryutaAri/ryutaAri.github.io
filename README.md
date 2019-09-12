@@ -12,12 +12,12 @@ Feel free to add or update information, which can be done by:
     + See available timezone strings [here](https://momentjs.com/timezone/).*
 - Sending a pull request 
 
-Or by simply sending a person in change of maintaining the webpage an email. 
+Or by simply sending a person in change of maintaining the [webpage][2] an email. 
 
 ## License
 
 [MIT][1]
 
 [1]: https://abhshkdz.mit-license.org/
-
+[2]: https://ryutaari.github.io/
 
