@@ -1,16 +1,6 @@
 
 ---
 
-- title: KR
-  year: 2020
-  id: kr2020
-  link: https://kr2020.inf.unibz.it/
-  deadline: '2020-03-11 23:59:59'
-  timezone: UTC-12
-  date: Sep 12-Sep 18, 2020
-  place: Rodhes, Greece
-  sub: KR
-  note: 'Rank: A*'
 
 
 - title: ICRA
@@ -125,6 +115,28 @@
   place: Glasgow, Scotland, UK
   sub: CV
   note: 'Rank: A <b>NOTE</b>: Deadline to be confirmed.'
+
+- title: KR
+  year: 2020
+  id: kr2020
+  link: https://kr2020.inf.unibz.it/
+  deadline: '2020-03-11 23:59:59'
+  timezone: UTC-12
+  date: Sep 12-Sep 18, 2020
+  place: Rodhes, Greece
+  sub: KR
+  note: 'Rank: A*'
+
+- title: IJCAI
+  year: 2020
+  id: ijcai20
+  link: https://ijcai20.org/
+  deadline: 'To be announced' 
+  timezone: UTC-12
+  date: Jul 11-Jul 17, 2020
+  place: Yokohama, Japan
+  sub: AI
+  note: 'Rank A*'
 
 - title: NAACL
   year: 2019
