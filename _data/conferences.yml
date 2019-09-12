@@ -127,16 +127,6 @@
   sub: KR
   note: 'Rank: A*'
 
-- title: IJCAI
-  year: 2020
-  id: ijcai20
-  link: https://ijcai20.org/
-  deadline: '2020-02-30 23:59:59' 
-  timezone: UTC-12
-  date: Jul 11-Jul 17, 2020
-  place: Yokohama, Japan
-  sub: AI
-  note: 'Rank A* <b>NOTE</b>: Deadline to be confirmed.'
 
 - title: NAACL
   year: 2019
