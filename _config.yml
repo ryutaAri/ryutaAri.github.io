@@ -1,13 +1,13 @@
 title: AI Conference Deadlines # (Maintained by @abhshkdz)
 # email: abhshkdz@vt.edu
 description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Ryuta Arisaka 
+author: Ryuta Arisaka, forked from abhshkdz/ai-deadlines
 
 domain: ""
 baseurl: ""
 
 github_username: ryutaAri
-github_repo: ai-deadlines-experiments
+github_repo: ryutaAri.github.io
 
 markdown: kramdown
 ga_id: UA-36274081-2
