@@ -5,7 +5,7 @@
   year: 2020
   id: kr2020
   link: https://kr2020.inf.unibz.it/
-  deadline: '2020-03-11'
+  deadline: '2020-03-11 23:59:59'
   timezone: UTC-12
   date: Sep 12-Sep 18, 2020
   place: Rodhes, Greece
@@ -22,6 +22,7 @@
   date: May 31-June 4, 2020
   place: Paris, France
   sub: RO
+  note: 'Rank: B'
 
 - title: ALT
   year: 2020
@@ -32,16 +33,7 @@
   date: February 08-10, 2020
   place: San Diego, CA, United States
   sub: ML
-
-- title: ICLR
-  year: 2020
-  id: iclr20
-  link: http://iclr.cc/
-  deadline: '2019-09-25 17:59:59'
-  timezone: Africa/Nairobi
-  date: April 30, 2020
-  place: Addis Ababa, Ethiopia
-  sub: ML
+  note: 'Rank: A*'
 
 - title: HRI
   year: 2020
@@ -52,6 +44,7 @@
   date: March 23-26, 2020
   place: Cambridge, UK
   sub: RO
+  note: 'Rank: A2 (Quails)'
 
 - title: AISTATS
   year: 2020
@@ -62,6 +55,7 @@
   date: June 3-5, 2020
   place: Palermo, Sicily, Italy
   sub: ML
+  note: 'Rank: A'
 
 - title: ICASSP
   year: 2020
@@ -72,6 +66,8 @@
   date: May 4-8, 2020
   place: Barcelona, Spain
   sub: SP
+  note: 'Rank: B'
+  
 
 - title: CVPR
   year: 2020
@@ -82,6 +78,8 @@
   date: June 14-19, 2020
   place: Seattle, USA
   sub: CV
+  note: 'Rank: A*'
+  
 
 - title: AAMAS
   year: 2020
@@ -92,7 +90,7 @@
   date: May 9-13, 2020
   place: Auckland, New Zealand
   sub: MAS 
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 12, 2019. More info <a href=''https://aamas2020.conference.auckland.ac.nz/call-for-papers/''>here</a>.'
+  note: 'Rank: A* <b>NOTE</b>: Mandatory abstract deadline on Nov 12, 2019. More info <a href=''https://aamas2020.conference.auckland.ac.nz/call-for-papers/''>here</a>.'
 
 - title: ACL
   year: 2020
@@ -103,6 +101,8 @@
   date: July 6-8, 2020
   place: Seattle, Washington, USA
   sub: NLP
+  note: 'Rank: A*'
+  
 
 - title: ICMR
   year: 2020
@@ -113,7 +113,7 @@
   date: June 8-11, 2020
   place: Dublin, Ireland
   sub: CV
-  note: '<b>NOTE</b>: Deadline to be confirmed.'
+  note: 'Rank: B <b>NOTE</b>: Deadline to be confirmed.'
 
 - title: ECCV
   year: 2020
@@ -124,17 +124,7 @@
   date: August 23-28, 2020
   place: Glasgow, Scotland, UK
   sub: CV
-  note: '<b>NOTE</b>: Deadline to be confirmed.'
-
-- title: AES
-  year: 2019
-  id: aes2019
-  link: http://www.aes.org/conferences/2019/immersive/
-  deadline: '2018-10-01 23:59:59'
-  timezone: UTC
-  date: March 27-29, 2019
-  place: York, UK
-  sub: SP
+  note: 'Rank: A <b>NOTE</b>: Deadline to be confirmed.'
 
 - title: NAACL
   year: 2019
@@ -145,6 +135,7 @@
   date: June 2-7, 2019
   place: Minneapolis, USA
   sub: NLP
+  note: 'Rank A'
 
 - title: SIGGRAPH
   year: 2019
@@ -155,6 +146,7 @@
   date: July 28 - August 1, 2019
   place: Los Angeles, California, USA
   sub: ML
+  note: 'Rank A*'
 
 - title: ICML
   year: 2019
@@ -165,7 +157,7 @@
   date: June 10-15, 2019
   place: Long Beach, USA
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href=''https://icml.cc/Conferences/2019/CallForPapers''>here</a>.'
+  note: 'Rank A* <b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href=''https://icml.cc/Conferences/2019/CallForPapers''>here</a>.'
 
 - title: GECCO
   year: 2019
@@ -176,6 +168,7 @@
   date: July 13 - 17, 2019
   place: Prague, Czech Republic
   sub: ML
+  note: 'Rank A'
 
 - title: COLT
   year: 2019
@@ -186,6 +179,7 @@
   date: June 25-28, 2019
   place: Phoenix, AZ
   sub: ML
+  note: 'Rank A*'
 
 - title: RSS
   year: 2019
@@ -196,6 +190,7 @@
   date: June 22-26, 2019
   place: Freiburg, Germany
   sub: RO
+  note: 'Rank A*' 
 
 - title: KDD
   year: 2019
@@ -206,6 +201,7 @@
   date: August 3-7, 2019
   place: Anchorage, Alaska, USA
   sub: DM
+  note: 'Rank A*' 
 
 - title: IJCAI
   year: 2019
@@ -216,7 +212,7 @@
   date: August 10-16, 2019
   place: Macau, China
   sub: AI
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 19, 2019. More info <a href=''https://www.ijcai19.org/call-for-papers.html''>here</a>.'
+  note: 'Rank A <b>NOTE</b>: Mandatory abstract deadline on Feb 19, 2019. More info <a href=''https://www.ijcai19.org/call-for-papers.html''>here</a>.'
 
 - title: IROS
   year: 2019
@@ -237,6 +233,7 @@
   date: July 28-August 2, 2019
   place: Florence, Italy
   sub: NLP
+  note: 'Rank A*' 
 
 - title: UAI
   year: 2019
@@ -247,7 +244,7 @@
   date: July 22-26, 2019
   place: Tel Aviv, Israel
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 04, 2019. More info <a
+  note: 'Rank A* <b>NOTE</b>: Mandatory abstract deadline on March 04, 2019. More info <a
     href=''http://auai.org/uai2019/cfp.php''>here</a>.'
 
 - title: ICCV
@@ -259,6 +256,7 @@
   date: October 27 - November 2, 2019
   place: Seoul, Korea
   sub: CV
+  note: 'Rank A*'
 
 - title: InterSpeech
   year: 2019
@@ -269,6 +267,7 @@
   date: September 15-19, 2019
   place: Graz, Austria
   sub: SP
+  note: 'Rank A' 
 
 - title: MICCAI
   year: 2019
@@ -279,7 +278,7 @@
   date: October 13 - October 17, 2019
   place: Shenzhen, China
   sub: CV
-  note: '<b>NOTE</b>: Mandatory intention-to-submit registration on March 19. More
+  note: 'Rank A <b>NOTE</b>: Mandatory intention-to-submit registration on March 19. More
     info <a href="http://www.miccai2019.org/calls/call-for-papers/">here</a>.'
 
 - title: ECML/PKDD
@@ -291,7 +290,7 @@
   date: September 16-20, 2019
   place: "W\xFCrzburg, Germany"
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 29, 2019. More info <a
+  note: 'Rank A <b>NOTE</b>: Mandatory abstract deadline on March 29, 2019. More info <a
     href="https://ecmlpkdd2019.org/submissions/deadlines/">here</a>.'
 
 - title: ISMIR
@@ -303,6 +302,7 @@
   date: November 4-8, 2019
   place: Delft, The Netherlands
   sub: SP
+  note: 'Rank A1 (Quails)' 
 
 - title: MM
   year: 2019
@@ -313,7 +313,7 @@
   date: October 21-25, 2019
   place: Nice, France
   sub: CV
-  note: '<b>NOTE</b>: Mandatory abstract submission deadline on April 1. More info
+  note: 'Rank A* <b>NOTE</b>: Mandatory abstract submission deadline on April 1. More info
     <a href="https://www.acmmm.org/2019/important-dates/">here</a>.'
 
 - title: BMVC
@@ -325,6 +325,7 @@
   date: September 9-12, 2019
   place: Cardiff, Wales, UK
   sub: CV
+  note: 'Rank B'
 
 - title: EMNLP-IJCNLP
   year: 2019
@@ -335,7 +336,7 @@
   date: November 3-7, 2019
   place: Hong Kong
   sub: NLP
-  note: '<b>NOTE</b>: Mandatory abstract submission deadline on May 15. More info
+  note: 'Rank A <b>NOTE</b>: Mandatory abstract submission deadline on May 15. More info
     <a href="https://www.emnlp-ijcnlp2019.org/calls/papers">here</a>.'
 
 - title: NeurIPS
@@ -347,7 +348,7 @@
   date: December 9-14, 2019
   place: Vancouver Convention Centre, Canada
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 16, 2019. More info <a href="https://nips.cc/Conferences/2019/Dates">here</a>.'
+  note: 'Rank A* <b>NOTE</b>: Mandatory abstract deadline on May 16, 2019. More info <a href="https://nips.cc/Conferences/2019/Dates">here</a>.'
 
 - title: CoNLL
   year: 2019
@@ -358,6 +359,7 @@
   date: November 3-4, 2019
   place: Hong Kong
   sub: NLP
+  note: 'Rank A'
 
 - title: ICDM
   year: 2019
@@ -368,26 +370,7 @@
   date: November 8-11, 2019
   place: Beijing, China
   sub: DM
-
-- title: 3DV
-  year: 2019
-  id: threedv19
-  link: http://3dv19.gel.ulaval.ca/
-  deadline: '2019-06-10 23:59:59'
-  timezone: America/New_York
-  date: September 16-19, 2019
-  place: Quebec City, Canada
-  sub: CV
-
-- title: CoRL
-  year: 2019
-  id: corl2019
-  link: http://www.robot-learning.org
-  deadline: '2019-07-07 23:59:59'
-  timezone: UTC-7
-  date: October 30 - November 1, 2019
-  place: Osaka, Japan
-  sub: RO
+  note: 'Rank A*'
 
 - title: WACV
   year: 2020
@@ -398,7 +381,7 @@
   date: March 2-5, 2020
   place: Snowmass village, Colorado, USA
   sub: CV
-  note: '<b>NOTE</b>: First round submission deadline.'
+  note: 'Rank A <b>NOTE</b>: First round submission deadline.'
 
 - title: AAAI
   year: 2020
@@ -409,3 +392,4 @@
   date: February 7-12, 2020
   place: New York, USA
   sub: AI
+  note: 'Rank A*'
