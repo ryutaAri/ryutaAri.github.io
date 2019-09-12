@@ -1,17 +1,15 @@
 ## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+Countdown timers to keep track of AI (and related) conference deadlines, credits go to Abhishek Das for abhshkdz/ai-deadlines [2]. 
 
 ## Adding/updating a conference
 
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6]. Feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
-
-To add or update information:
-- Fork the repository
-- Update `_data/conferences.yml`
-- Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
-    + See available timezone strings [here](https://momentjs.com/timezone/).
-- Send a pull request
+Feel free to add or update information, which can be done by:
+- Forking the repository
+- Updating `_data/conferences.yml`
+- *Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
+    + See available timezone strings [here](https://momentjs.com/timezone/).*
+- Sending a pull request
 
 ## Forks & other useful listings
 
