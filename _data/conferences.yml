@@ -79,6 +79,18 @@
   sub: ML
   note: 'Rank: A'
 
+- title: CSCW
+  year: 2020 
+  id: cscw20
+  link: http://cscw.acm.org/2019/
+  deadline: '2019-10-15 23:59:59' 
+  timezone: UTC-12
+  date: Nov 9-14, 2020
+  place:  Somewhere
+  sub: SC
+  note: 'Rank A <b>NOTE</b>: Detail to be announced.'
+
+
 - title: ICASSP
   year: 2020
   id: icassp2020
@@ -183,16 +195,6 @@
   sub: KR
   note: 'Rank: A*'
 
-- title: CSCW
-  year: 2020 
-  id: cscw20
-  link: http://cscw.acm.org/2019/
-  deadline: '2019-10-15 23:59:59' 
-  timezone: UTC-12
-  date: Nov 9-14, 2020
-  place:  Somewhere
-  sub: SC
-  note: 'Rank A <b>NOTE</b>: Detail to be announced.'
 
 
 #- title: NAACL
