@@ -135,16 +135,18 @@
   timezone: UTC-12
   date: Jul 17-19, 2020
   place: L'Aquila, Italy
+  sub: MAS
   note: 'Rank C' 
 
 - title: IJCAI-PRICAI
   year: 2020
   id: ijcai-pricai20
   link: https://ijcai20.org
-  deadline: '2020-02-28 23:59:59'
+  deadline: '2020-02-27 23:59:59'
   timezone: UTC-12
   date: Jul 11-17, 2020
-  place: Yokohama, Japan
+  place: Yokohama, Japan 
+  sub: AI
   note: 'Rank A* <b>NOTE</b>: Deadline to be decided.' 
 
 
@@ -175,6 +177,11 @@
   year: 2020 
   id: cscw20
   link: http://cscw.acm.org/2019/
+  deadline: '2019-10-15 23:59:59' 
+  timezone: UTC-12
+  date: Nov 9-14, 2020
+  place:  Somewhere
+  sub: SC
   note: 'Rank A <b>NOTE</b>: Detail to be announced.'
 
 
@@ -434,6 +441,7 @@
 #  place: Snowmass village, Colorado, USA
 #  sub: CV
 #  note: 'Rank A <b>NOTE</b>: First round submission deadline.'
+ 
 
 - title: IEEE ICA
   year: 2019
@@ -457,6 +465,17 @@
   place: Torino, Italy
   sub: MAS
   note: 'Rank B'
+ 
+- title: ACM CHI
+  year: 2020
+  id: chi20
+  link: https://chi2020.acm.org
+  deadline: '2019-09-13 23:59:59'
+  timezone: UTC-12
+  date: Apr 25-30, 2020
+  place: Honolulu, Hawai'i, USA
+  sub: HCI
+  note: 'Rank A*' 
 
 - title: AAAI
   year: 2020

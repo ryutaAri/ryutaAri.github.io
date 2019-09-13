@@ -18,4 +18,8 @@
 - name: Multi-Agent System
   sub: MAS
 - name: Web
-  sub: WEB
+  sub: WEB 
+- name: Social Computing
+  sub: SC
+- name: Human-Computer Interactions 
+  sub: HCI
