@@ -12,7 +12,7 @@ Feel free to add or update information (there could be some errors), which can b
     + See available timezone strings [here](https://momentjs.com/timezone/).*
 - Sending a pull request 
 
-Or by simply sending a person in change of maintaining the [webpage][2] an email. 
+Or by simply sending a person in change of maintaining the [webpage][2] an email. For the email communication, please include all necessary information. 
 
 ## License
 
