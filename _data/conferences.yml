@@ -1,6 +1,16 @@
 
 ---
 
+- title: ACM CHI
+  year: 2020
+  id: chi20
+  link: https://chi2020.acm.org
+  deadline: '2019-09-13 23:59:59'
+  timezone: UTC-12
+  date: Apr 25-30, 2020
+  place: Honolulu, Hawai'i, USA
+  sub: HCI
+  note: 'Rank A*' 
 
 
 - title: ICRA
@@ -466,16 +476,6 @@
   sub: MAS
   note: 'Rank B'
  
-- title: ACM CHI
-  year: 2020
-  id: chi20
-  link: https://chi2020.acm.org
-  deadline: '2019-09-13 23:59:59'
-  timezone: UTC-12
-  date: Apr 25-30, 2020
-  place: Honolulu, Hawai'i, USA
-  sub: HCI
-  note: 'Rank A*' 
 
 - title: AAAI
   year: 2020
