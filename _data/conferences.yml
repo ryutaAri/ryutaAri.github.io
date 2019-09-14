@@ -126,6 +126,17 @@
   sub: MAS 
   note: 'Rank: A* <b>NOTE</b>: Mandatory abstract deadline on Nov 12, 2019. More info <a href=''https://aamas2020.conference.auckland.ac.nz/call-for-papers/''>here</a>.'
 
+- title: ECAI
+  year: 2020
+  id: ecai20
+  link: http://ecai2020.eu
+  deadline: '2019-11-19 23:59:59'
+  timezone: UTC-12
+  date: Jun 8-12, 2020
+  place: Santiago de Compostela, Spain 
+  sub: AI
+  note: 'Rank: A <b>NOTE</b>: Mandatory abstract deadline on Nov 15 2020.  
+
 - title: ACL
   year: 2020
   id: acl20
