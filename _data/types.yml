@@ -23,3 +23,5 @@
   sub: SC
 - name: Human-Computer Interactions 
   sub: HCI
+- name: Logic
+  sub: Logic
