@@ -113,7 +113,17 @@
   place: Seattle, USA
   sub: CV
   note: 'Rank: A*'
-  
+
+- title: CLAR
+  year: 2020
+  id: clar20
+  link: http://www.xixilogic.org/events/clar2020/
+  deadline: '2019-11-30 23:59:59'
+  timezone: UTC-12
+  date: Apr 6-9, 2020
+  place: Hangzhou, China
+  sub: Logic
+  note: 'Accepted papers will be in special issues of the Journal of Logic and Computation and the Journal of Applied Logics.' 
 
 - title: AAMAS
   year: 2020
