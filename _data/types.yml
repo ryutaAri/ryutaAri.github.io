@@ -19,8 +19,8 @@
   sub: IT
 - name: Knowledge Representation
   sub: KR
-- name: Argumentation (Logic)
-  sub: Logic
+#- name: Argumentation (Logic)
+#  sub: Logic
 - name: Speech/SigProc
   sub: SP
 - name: Data Mining
