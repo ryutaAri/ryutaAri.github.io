@@ -71,6 +71,17 @@
   sub: ML
   note: 'Rank: A*'
 
+- title: AIT
+  year: 2019
+  id: ait2019
+  link: http://iaiai.org/conference/ait2019/
+  deadline: '2019-09-30'
+  timezone: UTC-12
+  date: Nov 4-6, 2019
+  place: Yogyakarta, Indonesia
+  sub: IT
+  note: 'Rank: ? <b>NOTE</b> Timezone unclear.' 
+
 - title: HRI
   year: 2020
   id: hri2020
