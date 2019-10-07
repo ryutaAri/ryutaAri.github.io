@@ -286,7 +286,16 @@
   sub: KR
   note: 'Rank: A*'
 
-
+- title: KES
+  year: 2020
+  id: kes2020
+  link: http://kes2020.kesinternational.org/index.php
+  deadline: '2020-03-31 23:59:59'
+  timezone: UTC-12
+  date: Sep 16-18, 2020
+  place: Verona, Italy
+  sub: MAS
+  note: 'Rank: B'
 
 #- title: NAACL
 #  year: 2019
