@@ -93,16 +93,6 @@
   sub: RO
   note: 'Rank: A2 (Quails)'
 
-- title: ICAART
-  year: 2020
-  id: icaart20
-  link: http://www.icaart.org/
-  deadline: '2019-10-04 23:59:59'
-  timezone: UTC-12
-  date: Feb 22-24, 2020
-  place: Valletta, Malta
-  sub: AI 
-  note: 'Rank C'
 
 - title: WWW
   year: 2020
@@ -159,6 +149,16 @@
   sub: SP
   note: 'Rank: B'
   
+- title: ICAART
+  year: 2020
+  id: icaart20
+  link: http://www.icaart.org/
+  deadline: '2019-10-24 23:59:59'
+  timezone: UTC-12
+  date: Feb 22-24, 2020
+  place: Valletta, Malta
+  sub: AI 
+  note: 'Rank C'
 
 - title: CVPR
   year: 2020
