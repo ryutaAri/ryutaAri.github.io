@@ -128,16 +128,6 @@
   sub: SC
   note: 'Rank A <b>NOTE</b>: Detail to be announced.'
 
-- title: GDN 
-  year: 2020
-  id: gdn20
-  link: http://gdnconference.org/gdn2020/
-  deadline: '2019-10-15 23:59:59'
-  timezone: UTC-12
-  date: Jun 07-11, 2020
-  place: Toronto 
-  sub: MAS
-  note: 'Rank B <b>NOTE</b>: Timezone unclear.' 
 
 - title: ICASSP
   year: 2020
@@ -205,6 +195,16 @@
   sub: KR
   note: '<b>NOTE</b>: Accepted papers will be in special issues of the Journal of Logic and Computation and the Journal of Applied Logics.' 
 
+- title: GDN 
+  year: 2020
+  id: gdn20
+  link: http://gdnconference.org/gdn2020/
+  deadline: '2019-12-15 23:59:59'
+  timezone: UTC-12
+  date: Jun 07-11, 2020
+  place: Toronto 
+  sub: MAS
+  note: 'Rank B <b>NOTE</b>: Timezone unclear.' 
 
 
 - title: ACL
