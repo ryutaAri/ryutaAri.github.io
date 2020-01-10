@@ -40,6 +40,18 @@
   sub: MAS
   note: 'Rank C' 
 
+- title: ICML
+  year: 2020
+  id: icml20
+  link:  https://icml.cc    
+  deadline: '2020-02-06 23:59:59' 
+  timezone: UTC-12
+  date: Jul 12-18, 2020
+  place: Vienna, Austria
+  sub: ML
+  note: 'Rank A*, Mandatory abstract submission on the 30th Jan 2020.' 
+
+
 - title: Trends in Logic XX
   year: 2020
   id: til20
