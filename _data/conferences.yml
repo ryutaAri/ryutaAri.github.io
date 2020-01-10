@@ -1,6 +1,115 @@
 
 ---
 
+  
+
+
+- title: ICMR
+  year: 2020
+  id: icmr2020
+  link: http://icmr2020.org/
+  deadline: '2020-01-11 23:59:59'
+  timezone: Europe/London
+  date: June 8-11, 2020
+  place: Dublin, Ireland
+  sub: CV
+  note: 'Rank: B <b>NOTE</b>: Deadline to be confirmed.'
+
+
+
+
+- title: IJCAI-PRICAI
+  year: 2020
+  id: ijcai-pricai20
+  link: https://ijcai20.org
+  deadline: '2020-01-21 23:59:59'
+  timezone: UTC-12
+  date: Jul 11-17, 2020
+  place: Yokohama, Japan 
+  sub: AI
+  note: 'Rank A* <b>NOTE</b>: Mandatory abstract submission deadline on Jan the 15th, 2020.' 
+
+- title: PAAMS
+  year: 2020
+  id: paams20
+  link: https://www.paams.net
+  deadline: '2020-01-24 23:59:59' 
+  timezone: UTC-12
+  date: Jul 17-19, 2020
+  place: L'Aquila, Italy
+  sub: MAS
+  note: 'Rank C' 
+
+- title: Trends in Logic XX
+  year: 2020
+  id: til20
+  link: https://trends2020.knu.ua
+  deadline: '2020-01-31 23:59:59'
+  timezone: UTC-12
+  date: May 13-15, 2020
+  place: Kiev, Ukraine
+  sub: KR
+  note: 'with Studia Logica. <b>NOTE</b>: Timezone uncler.' 
+
+- title: DCAI 
+  year: 2020
+  id: dcai20
+  link: https://www.dcai-conference.net/open-calls/call-for-papers
+  deadline: '2020-01-31 23:59:59'
+  timezone: UTC-12
+  date: June 17-19, 2020
+  place: L'Aquila, Italy
+  sub: SC 
+  note: 'Rank ?' 
+
+
+- title: IEEE ICCCI
+  year: 2020
+  id: iccci20
+  link: http://iccci.org
+  deadline: '2020-02-10 23:59:59'
+  timezone: UTC-12
+  date: June 26-29, 2020
+  place: Nagoya, Japan
+  sub: IT
+  note: 'Rank C' 
+
+
+
+- title: ECCV
+  year: 2020
+  id: eccv2020
+  link: https://eccv2020.eu
+  deadline: '2020-03-15 07:00:00'
+  timezone: Europe/London
+  date: August 23-28, 2020
+  place: Glasgow, Scotland, UK
+  sub: CV
+  note: 'Rank: A <b>NOTE</b>: Deadline to be confirmed.'
+
+- title: KR
+  year: 2020
+  id: kr2020
+  link: https://kr2020.inf.unibz.it/
+  deadline: '2020-03-11 23:59:59'
+  timezone: UTC-12
+  date: Sep 12-Sep 18, 2020
+  place: Rodhes, Greece
+  sub: KR
+  note: 'Rank: A*'
+
+- title: KES
+  year: 2020
+  id: kes2020
+  link: http://kes2020.kesinternational.org/index.php
+  deadline: '2020-03-31 23:59:59'
+  timezone: UTC-12
+  date: Sep 16-18, 2020
+  place: Verona, Italy
+  sub: MAS
+  note: 'Rank: B'
+
+
 #- title: IEEE ICA
 #  year: 2019
 #  id: ica19
@@ -217,113 +326,8 @@
   place: Seattle, Washington, USA
   sub: NLP
   note: 'Rank: A*'
-  
 
 
-- title: ICMR
-  year: 2020
-  id: icmr2020
-  link: http://icmr2020.org/
-  deadline: '2020-01-11 23:59:59'
-  timezone: Europe/London
-  date: June 8-11, 2020
-  place: Dublin, Ireland
-  sub: CV
-  note: 'Rank: B <b>NOTE</b>: Deadline to be confirmed.'
-
-
-
-
-- title: IJCAI-PRICAI
-  year: 2020
-  id: ijcai-pricai20
-  link: https://ijcai20.org
-  deadline: '2020-01-21 23:59:59'
-  timezone: UTC-12
-  date: Jul 11-17, 2020
-  place: Yokohama, Japan 
-  sub: AI
-  note: 'Rank A* <b>NOTE</b>: Mandatory abstract submission deadline on Jan the 15th, 2020.' 
-
-- title: PAAMS
-  year: 2020
-  id: paams20
-  link: https://www.paams.net
-  deadline: '2020-01-24 23:59:59' 
-  timezone: UTC-12
-  date: Jul 17-19, 2020
-  place: L'Aquila, Italy
-  sub: MAS
-  note: 'Rank C' 
-
-- title: Trends in Logic XX
-  year: 2020
-  id: til20
-  link: https://trends2020.knu.ua
-  deadline: '2020-01-31 23:59:59'
-  timezone: UTC-12
-  date: May 13-15, 2020
-  place: Kiev, Ukraine
-  sub: KR
-  note: 'with Studia Logica. <b>NOTE</b>: Timezone uncler.' 
-
-- title: DCAI 
-  year: 2020
-  id: dcai20
-  link: https://www.dcai-conference.net/open-calls/call-for-papers
-  deadline: '2020-01-31 23:59:59'
-  timezone: UTC-12
-  date: June 17-19, 2020
-  place: L'Aquila, Italy
-  sub: SC 
-  note: 'Rank ?' 
-
-
-- title: IEEE ICCCI
-  year: 2020
-  id: iccci20
-  link: http://iccci.org
-  deadline: '2020-02-10 23:59:59'
-  timezone: UTC-12
-  date: June 26-29, 2020
-  place: Nagoya, Japan
-  sub: IT
-  note: 'Rank C' 
-
-
-
-- title: ECCV
-  year: 2020
-  id: eccv2020
-  link: https://eccv2020.eu
-  deadline: '2020-03-15 07:00:00'
-  timezone: Europe/London
-  date: August 23-28, 2020
-  place: Glasgow, Scotland, UK
-  sub: CV
-  note: 'Rank: A <b>NOTE</b>: Deadline to be confirmed.'
-
-- title: KR
-  year: 2020
-  id: kr2020
-  link: https://kr2020.inf.unibz.it/
-  deadline: '2020-03-11 23:59:59'
-  timezone: UTC-12
-  date: Sep 12-Sep 18, 2020
-  place: Rodhes, Greece
-  sub: KR
-  note: 'Rank: A*'
-
-- title: KES
-  year: 2020
-  id: kes2020
-  link: http://kes2020.kesinternational.org/index.php
-  deadline: '2020-03-31 23:59:59'
-  timezone: UTC-12
-  date: Sep 16-18, 2020
-  place: Verona, Italy
-  sub: MAS
-  note: 'Rank: B'
 
 #- title: NAACL
 #  year: 2019
