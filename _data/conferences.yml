@@ -4,52 +4,18 @@
   
 
 
-- title: ICMR
-  year: 2020
-  id: icmr2020
-  link: http://icmr2020.org/
-  deadline: '2020-01-11 23:59:59'
-  timezone: Europe/London
-  date: June 8-11, 2020
-  place: Dublin, Ireland
-  sub: CV
-  note: 'Rank: B <b>NOTE</b>: Deadline to be confirmed.'
-
-
-
-
-- title: IJCAI-PRICAI
-  year: 2020
-  id: ijcai-pricai20
-  link: https://ijcai20.org
-  deadline: '2020-01-21 23:59:59'
-  timezone: UTC-12
-  date: Jul 11-17, 2020
-  place: Yokohama, Japan 
-  sub: AI
-  note: 'Rank A* <b>NOTE</b>: Mandatory abstract submission deadline on Jan the 15th, 2020.' 
 
 - title: PAAMS
   year: 2020
   id: paams20
   link: https://www.paams.net
-  deadline: '2020-01-24 23:59:59' 
+  deadline: '2020-01-31 23:59:59' 
   timezone: UTC-12
   date: Jul 17-19, 2020
   place: L'Aquila, Italy
   sub: MAS
   note: 'Rank C' 
 
-- title: ICML
-  year: 2020
-  id: icml20
-  link:  https://icml.cc    
-  deadline: '2020-02-06 23:59:59' 
-  timezone: UTC-12
-  date: Jul 12-18, 2020
-  place: Vienna, Austria
-  sub: ML
-  note: 'Rank A*, Mandatory abstract submission on the 30th Jan 2020.' 
 
 
 - title: Trends in Logic XX
@@ -63,11 +29,23 @@
   sub: KR
   note: 'with Studia Logica. <b>NOTE</b>: Timezone uncler.' 
 
+- title: ICML
+  year: 2020
+  id: icml20
+  link:  https://icml.cc    
+  deadline: '2020-02-06 23:59:59' 
+  timezone: UTC-12
+  date: Jul 12-18, 2020
+  place: Vienna, Austria
+  sub: ML
+  note: 'Rank A*, Mandatory abstract submission on the 30th Jan 2020.' 
+
+
 - title: DCAI 
   year: 2020
   id: dcai20
   link: https://www.dcai-conference.net/open-calls/call-for-papers
-  deadline: '2020-01-31 23:59:59'
+  deadline: '2020-02-07 23:59:59'
   timezone: UTC-12
   date: June 17-19, 2020
   place: L'Aquila, Italy
@@ -86,7 +64,15 @@
   sub: IT
   note: 'Rank C' 
 
-
+- title: Collective Intelligence
+  year: 2020
+  id: acmcic20
+  link: https://ci2020.weebly.com
+  deadline: `2020-03-01 23:59:59'
+  timezone: UTC-12
+  date: June 18-19, 2020
+  place: Boston (USA), Copenhagen (Denmark)
+  sub: SC
 
 - title: ECCV
   year: 2020
@@ -338,6 +324,32 @@
   place: Seattle, Washington, USA
   sub: NLP
   note: 'Rank: A*'
+
+
+- title: ICMR
+  year: 2020
+  id: icmr2020
+  link: http://icmr2020.org/
+  deadline: '2020-01-11 23:59:59'
+  timezone: Europe/London
+  date: June 8-11, 2020
+  place: Dublin, Ireland
+  sub: CV
+  note: 'Rank: B <b>NOTE</b>: Deadline to be confirmed.'
+
+
+
+
+- title: IJCAI-PRICAI
+  year: 2020
+  id: ijcai-pricai20
+  link: https://ijcai20.org
+  deadline: '2020-01-21 23:59:59'
+  timezone: UTC-12
+  date: Jul 11-17, 2020
+  place: Yokohama, Japan 
+  sub: AI
+  note: 'Rank A* <b>NOTE</b>: Mandatory abstract submission deadline on Jan the 15th, 2020.' 
 
 
 
