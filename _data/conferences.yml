@@ -107,6 +107,16 @@
   sub: MAS
   note: 'Rank: B'
 
+- title: COMMA 
+  year: 2020
+  id: comma2020
+  link: https://comma2020.dmi.unipg.it/cfp.html
+  deadline: '2020-04-17 23:59:59'
+  timezone: UTC-12
+  date: Sep 8-11, 2020
+  place: Perugia, Italy
+  sub: KR
+  note: ''
 
 #- title: IEEE ICA
 #  year: 2019
