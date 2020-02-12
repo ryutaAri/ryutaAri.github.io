@@ -5,47 +5,13 @@
 
 
 
-- title: PAAMS
-  year: 2020
-  id: paams20
-  link: https://www.paams.net
-  deadline: '2020-01-31 23:59:59' 
-  timezone: UTC-12
-  date: Jul 17-19, 2020
-  place: L'Aquila, Italy
-  sub: MAS
-  note: 'Rank C' 
-
-
-
-- title: Trends in Logic XX
-  year: 2020
-  id: til20
-  link: https://trends2020.knu.ua
-  deadline: '2020-01-31 23:59:59'
-  timezone: UTC-12
-  date: May 13-15, 2020
-  place: Kiev, Ukraine
-  sub: KR
-  note: 'with Studia Logica. <b>NOTE</b>: Timezone uncler.' 
-
-- title: ICML
-  year: 2020
-  id: icml20
-  link:  https://icml.cc    
-  deadline: '2020-02-06 23:59:59' 
-  timezone: UTC-12
-  date: Jul 12-18, 2020
-  place: Vienna, Austria
-  sub: ML
-  note: 'Rank A*, Mandatory abstract submission on the 30th Jan 2020.' 
 
 
 - title: DCAI 
   year: 2020
   id: dcai20
   link: https://www.dcai-conference.net/open-calls/call-for-papers
-  deadline: '2020-02-07 23:59:59'
+  deadline: '2020-02-17 23:59:59'
   timezone: UTC-12
   date: June 17-19, 2020
   place: L'Aquila, Italy
@@ -117,6 +83,17 @@
   place: Perugia, Italy
   sub: KR
   note: ''
+
+- title: ICLP 
+  year: 2020
+  id: iclp2020
+  link: https://iclp2020.unical.it/home
+  deadline: '2020-05-15 23:59:59'
+  timezone: UTC-12
+  date: Sep 18-24, 2020
+  place: Rende, Italy
+  sub: KR
+  note: 'Rank: A <b>NOTE</b>: Abstract registration on the 8th May.'
 
 #- title: IEEE ICA
 #  year: 2019
@@ -361,6 +338,40 @@
   sub: AI
   note: 'Rank A* <b>NOTE</b>: Mandatory abstract submission deadline on Jan the 15th, 2020.' 
 
+- title: PAAMS
+  year: 2020
+  id: paams20
+  link: https://www.paams.net
+  deadline: '2020-01-31 23:59:59' 
+  timezone: UTC-12
+  date: Jul 17-19, 2020
+  place: L'Aquila, Italy
+  sub: MAS
+  note: 'Rank C' 
+
+
+
+- title: Trends in Logic XX
+  year: 2020
+  id: til20
+  link: https://trends2020.knu.ua
+  deadline: '2020-01-31 23:59:59'
+  timezone: UTC-12
+  date: May 13-15, 2020
+  place: Kiev, Ukraine
+  sub: KR
+  note: 'with Studia Logica. <b>NOTE</b>: Timezone uncler.' 
+
+- title: ICML
+  year: 2020
+  id: icml20
+  link:  https://icml.cc    
+  deadline: '2020-02-06 23:59:59' 
+  timezone: UTC-12
+  date: Jul 12-18, 2020
+  place: Vienna, Austria
+  sub: ML
+  note: 'Rank A*, Mandatory abstract submission on the 30th Jan 2020.' 
 
 
 #- title: NAACL
