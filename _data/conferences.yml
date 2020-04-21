@@ -1,88 +1,16 @@
 
 ---
 
-  
-
-
-
-
-
-- title: DCAI 
-  year: 2020
-  id: dcai20
-  link: https://www.dcai-conference.net/open-calls/call-for-papers
-  deadline: '2020-02-17 23:59:59'
-  timezone: UTC-12
-  date: June 17-19, 2020
-  place: L'Aquila, Italy
-  sub: SC 
-  note: 'Rank ?' 
-
-
-- title: IEEE ICCCI
-  year: 2020
-  id: iccci20
-  link: http://iccci.org
-  deadline: '2020-02-10 23:59:59'
-  timezone: UTC-12
-  date: June 26-29, 2020
-  place: Nagoya, Japan
-  sub: IT
-  note: 'Rank C' 
-
-- title: Collective Intelligence
-  year: 2020
-  id: acmcic20
-  link: https://ci2020.weebly.com
-  deadline: '2020-03-01 23:59:59'
-  timezone: UTC-12
-  date: June 18-19, 2020
-  place: Boston (USA), Copenhagen (Denmark)
-  sub: SC
-
-- title: ECCV
-  year: 2020
-  id: eccv2020
-  link: https://eccv2020.eu
-  deadline: '2020-03-15 07:00:00'
-  timezone: Europe/London
-  date: August 23-28, 2020
-  place: Glasgow, Scotland, UK
-  sub: CV
-  note: 'Rank: A <b>NOTE</b>: Deadline to be confirmed.'
-
-- title: KR
-  year: 2020
-  id: kr2020
-  link: https://kr2020.inf.unibz.it/
-  deadline: '2020-03-11 23:59:59'
-  timezone: UTC-12
-  date: Sep 12-Sep 18, 2020
-  place: Rodhes, Greece
-  sub: KR
-  note: 'Rank: A*'
-
-- title: KES
-  year: 2020
-  id: kes2020
-  link: http://kes2020.kesinternational.org/index.php
-  deadline: '2020-03-31 23:59:59'
-  timezone: UTC-12
-  date: Sep 16-18, 2020
-  place: Verona, Italy
-  sub: MAS
-  note: 'Rank: B'
-
 - title: COMMA 
   year: 2020
   id: comma2020
   link: https://comma2020.dmi.unipg.it/cfp.html
-  deadline: '2020-04-17 23:59:59'
+  deadline: '2020-05-08 23:59:59'
   timezone: UTC-12
   date: Sep 8-11, 2020
   place: Perugia, Italy
   sub: KR
-  note: ''
+  note: 'Rank B1 (Qualis)'
 
 - title: ICLP 
   year: 2020
@@ -372,6 +300,72 @@
   place: Vienna, Austria
   sub: ML
   note: 'Rank A*, Mandatory abstract submission on the 30th Jan 2020.' 
+
+ - title: DCAI 
+  year: 2020
+  id: dcai20
+  link: https://www.dcai-conference.net/open-calls/call-for-papers
+  deadline: '2020-02-17 23:59:59'
+  timezone: UTC-12
+  date: June 17-19, 2020
+  place: L'Aquila, Italy
+  sub: SC 
+  note: 'Rank ?' 
+
+
+- title: IEEE ICCCI
+  year: 2020
+  id: iccci20
+  link: http://iccci.org
+  deadline: '2020-02-10 23:59:59'
+  timezone: UTC-12
+  date: June 26-29, 2020
+  place: Nagoya, Japan
+  sub: IT
+  note: 'Rank C' 
+
+- title: Collective Intelligence
+  year: 2020
+  id: acmcic20
+  link: https://ci2020.weebly.com
+  deadline: '2020-03-01 23:59:59'
+  timezone: UTC-12
+  date: June 18-19, 2020
+  place: Boston (USA), Copenhagen (Denmark)
+  sub: SC
+
+- title: ECCV
+  year: 2020
+  id: eccv2020
+  link: https://eccv2020.eu
+  deadline: '2020-03-15 07:00:00'
+  timezone: Europe/London
+  date: August 23-28, 2020
+  place: Glasgow, Scotland, UK
+  sub: CV
+  note: 'Rank: A <b>NOTE</b>: Deadline to be confirmed.'
+
+- title: KR
+  year: 2020
+  id: kr2020
+  link: https://kr2020.inf.unibz.it/
+  deadline: '2020-03-11 23:59:59'
+  timezone: UTC-12
+  date: Sep 12-Sep 18, 2020
+  place: Rodhes, Greece
+  sub: KR
+  note: 'Rank: A*'
+
+- title: KES
+  year: 2020
+  id: kes2020
+  link: http://kes2020.kesinternational.org/index.php
+  deadline: '2020-03-31 23:59:59'
+  timezone: UTC-12
+  date: Sep 16-18, 2020
+  place: Verona, Italy
+  sub: MAS
+  note: 'Rank: B'
 
 
 #- title: NAACL
