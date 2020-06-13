@@ -1,6 +1,17 @@
 
 ---
 
+- title: AAAI
+year: 2021
+id: aaai2021
+link: 'https://aaai.org/Conferences/AAAI-21/reviewing-process/?fbclid=IwAR2gvaCtO_DU7k_nH1EpQbP0uSDlxHyK-7dFrNTgzMyEmjb9-IxxFgu6Ldk'
+deadline: '2020-09-09 23:59:59'
+timezone: UTC-12
+date: February 2-9, 2021
+place: Vancouver, Canada
+sub: AI
+note: 'Rank A*'
+
 - title: WIIAT
   year: 2020
   id: wiiat2020
