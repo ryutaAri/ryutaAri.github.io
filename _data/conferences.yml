@@ -1,6 +1,8 @@
 
 ---
 
+
+
 - title: AAAI
   year: 2021
   id: aaai2021
@@ -12,6 +14,16 @@
   sub: AI
   note: 'Rank A*'
   
+  - title: ICAART
+  year: 2020
+  id: icaart2020
+  link: 'http://www.icaart.org/?y=2020'
+  deadline: '2020-09-14 23:59:59'
+  timezone: UTC-12
+  date: February 4-6, 2021
+  place: Vienna, Austria
+  sub: MAS
+  note: 'Rank C'
   
 - title: WIIAT
   year: 2020
