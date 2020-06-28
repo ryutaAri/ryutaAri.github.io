@@ -1,8 +1,6 @@
 
 ---
 
-
-
 - title: AAAI
   year: 2021
   id: aaai2021
@@ -14,7 +12,7 @@
   sub: AI
   note: 'Rank A*'
   
-  - title: ICAART
+- title: ICAART
   year: 2020
   id: icaart2020
   link: 'http://www.icaart.org/?y=2020'
