@@ -23,6 +23,17 @@
   sub: MAS
   note: 'Rank C'
   
+- title: AAMAS
+  year: 2021
+  id: aamas2021
+  link: 'https://aamas2021.soton.ac.uk'
+  deadline: '2020-10-09 23:59:59'
+  timezone: UTC-12
+  date: May 3-7, 2021
+  place: London, UK
+  sub: MAS
+  note: 'Rank A*'
+  
 - title: WIIAT
   year: 2020
   id: wiiat2020
