@@ -1,6 +1,28 @@
 
 ---
 
+- title: TENCON
+  year: 2020
+  id: tencon2020
+  link: 'http://www.tencon2020.net/authors/submission.html'
+  deadline: '2020-07-15'
+  timezone: UTC-12
+  date: November 16-19, 2020
+  place: Osaka, Japan
+  sub: IT
+  note: 'Rank C'
+  
+- title: WI-IAT
+  year: 2020
+  id: wiiat2020
+  link: 'http://wi2020.vcrab.com.au'
+  deadline: '2020-08-01'
+  timezone: UTC-12
+  date: December 14-17, 2020
+  place: Melbourne, Australia
+  sub: WEB
+  note: 'Rank B'
+
 - title: AAAI
   year: 2021
   id: aaai2021
